@@ -1,0 +1,3 @@
+[submodule "vscode-language-pack-ro/vscode"]
+	path = vscode-language-pack-ro/vscode
+	url = https://github.com/microsoft/vscode
